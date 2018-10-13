@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <description url="http://update.foglyn.com/archive/v1.3/">
+      Stable versions of Foglyn, FogBugz connector for Mylyn.
+   </description>
+   <feature url="features/com.foglyn_1.3.0.200903252036.jar" id="com.foglyn" version="1.3.0.200903252036">
+      <category name="foglyn"/>
+   </feature>
+
+   <category-def name="foglyn" label="Foglyn - FogBugz connector for Mylyn">
+      <description>
+         Stable versions of Foglyn, FogBugz connector for Mylyn.
+      </description>
+   </category-def>
+</site>
